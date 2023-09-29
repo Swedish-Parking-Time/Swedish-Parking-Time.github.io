@@ -2,7 +2,7 @@ title: Parking Time
 description: The blog page for the parking time project
 show_downloads: true
 
-baseurl: "/parking-time" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://swedish-parking-time.github.io" # change this to the base hostname & protocol for your site
 
 plugins:
