@@ -5,6 +5,13 @@ show_downloads: true
 baseurl: "/parking-time" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://swedish-parking-time.github.io" # change this to the base hostname & protocol for your site
 
+plugins:
+  - jekyll-target-blank
+  - jekyll
+  #- html-proofer
+  - rubocop
+  - w3c_validators
+  - jekyll-remote-theme
 
 google_analytics:
 
@@ -13,17 +20,10 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-cayman-blog
+remote_theme: lorepirri/cayman-blog
 
 # social
 author: Parking time group
-
-plugins:
-  - jekyll-target-blank
-  - jekyll
-  #- html-proofer
-  - rubocop
-  - w3c_validators
 
 target-blank:
     rel: nofollow
