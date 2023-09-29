@@ -5,6 +5,8 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-cayman-blog"
   s.version       = "0.0.9"
   s.license       = "CC0-1.0"
+  s.authors       = ["Magnus Stenfelt"]
+  s.email         = ["magset-8@student.ltu.se"]
   s.homepage      = "https://github.com/swedish-parking-time/cayman-blog"
   s.summary       = "The blog page for the parking time project"
 
