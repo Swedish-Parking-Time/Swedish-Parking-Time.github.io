@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-We have now recieved the previous code written by the consultants and had a meeting with them asking questions.
+We have now received the previous code written by the consultants and had a meeting with them asking questions.
 Because of licensing issues, mainly having to pay $5500 for an ABP commercial license,
 we've come to the agreement with the Parking Time Sweden AB company owner Matilda to explore a replacement
 for the license over the coming week.
