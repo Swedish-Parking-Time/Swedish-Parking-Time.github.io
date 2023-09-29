@@ -4,7 +4,9 @@ layout: post
 After consideration we've come to the conclusion of using `next.js` as the framework for the admin panel,
 `go` for the backend api, `mongodb` as database for the remake of the backend.
 
-// Add reason for choosing next.js here
+`next.js` is a fast, easy to use and react-based framework and will also share the same look as the app.
+It gives the oppertunity to integrate almost anything into it which is a huge bonus
+when adding features in the future.
 
 `go` was chosen for the backend api for it's very simple nature of setting up api backends with minimal effort
 while also being blazingly fast and we're using it in a different course so everyone is somewhat familiar
