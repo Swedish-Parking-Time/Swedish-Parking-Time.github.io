@@ -13,13 +13,17 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: # leave it empty
+theme: jekyll-theme-cayman-blog
 
 # social
 author: Parking time group
 
 plugins:
   - jekyll-target-blank
+  - jekyll
+  #- html-proofer
+  - rubocop
+  - w3c_validators
 
 target-blank:
     rel: nofollow
